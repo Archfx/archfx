@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=Archfx&count_private=true&show_icons=true&theme=vue)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=Archfx&layout=compact&theme=vue)](https://github.com/Archfx/github-readme-stats)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=Archfx&layout=compact&theme=vue" />
 </a>
