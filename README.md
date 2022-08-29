@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Archfx&count_private=true&show_icons=true&theme=vue&hide=contribs&hide_border=true" width ="600" /> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Archfx&layout=compact&theme=vue&hide_border=true&count_private=true" width ="400" />
+<img src = "https://github-readme-stats.vercel.app/api?username=Archfx&count_private=true&show_icons=true&theme=vue&hide=contribs&hide_border=true" width ="400" /> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Archfx&layout=compact&theme=vue&hide_border=true&count_private=true" width ="300" />
