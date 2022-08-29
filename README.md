@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/archfx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Archfx&count_private=true&show_icons=true&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Archfx&count_private=true&show_icons=true&theme=vue&hide=issues,contribs" />
 </a>
 <a href="https://github.com/archfx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archfx&layout=compact&theme=vue" />
