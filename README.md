@@ -16,22 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<table><tr><td align="center" width="55%">
-  
-[![Archfx's github stats](https://github-readme-stats.vercel.app/api?username=Archfx&count_private=true&show_icons=true&theme=vue)](https://github.com/Archfx/github-readme-stats)
-
-</td><td align="top" width="55%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Archfx&layout=compact&theme=vue)](https://github.com/Archfx/github-readme-stats)
-
-</td></tr></table>
-
-<div style="margin:0 auto; height:auto;">
-
-
-
-</div>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Archfx&count_private=true&show_icons=true&theme=vue" />
 </a>
