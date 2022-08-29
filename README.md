@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![]([https://...Dark.png](https://github-readme-stats.vercel.app/api?username=Archfx&count_private=true&show_icons=true&theme=vue&hide=contribs&hide_border=true))  |  ![]([https://...Ocean.png](https://github-readme-stats.vercel.app/api/top-langs/?username=Archfx&layout=compact&theme=vue&hide_border=true&count_private=true))
+![](https://github-readme-stats.vercel.app/api?username=Archfx&count_private=true&show_icons=true&theme=vue&hide=contribs&hide_border=true)  |  ![](https://...Ocean.png](https://github-readme-stats.vercel.app/api/top-langs/?username=Archfx&layout=compact&theme=vue&hide_border=true&count_private=true)
