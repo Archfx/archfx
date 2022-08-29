@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/archfx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archfx&layout=compact&theme=vue&hide_border=true&count_private=true" />
 </a>
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
