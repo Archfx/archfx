@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi! 👏
-
 
 <table><tr><td align="center" width="55%">
   
