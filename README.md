@@ -6,9 +6,9 @@
 <picture>
   <source srcset="https://raw.githubusercontent.com/Archfx/github-stats/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
   <img src="https://raw.githubusercontent.com/Archfx/github-stats/master/generated/languages.svg#gh-light-mode-only"  align="right">
-</picture>
+</picture> 
 
-----
+
 
 
 [![GitHub](https://img.shields.io/badge/-@archfx-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/archfx)
@@ -21,4 +21,4 @@
 
 
 
------
+
