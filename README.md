@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="" src="images/globe.gif"/>
+<img align="left" width="120" height="auto" alt="" src="images/globe.gif"/>
 
 ## Hello World !&nbsp;
 
