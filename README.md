@@ -1,6 +1,6 @@
-<img align="left" width="150" height="150" alt="" src="images/2.jpg"/>
+<img align="left" width="150" height="150" alt="" src="images/globe.gif"/>
 
-## Hello World !&nbsp;<img src="images/globe.gif" width="50px"> from [archfx](https://archfx.github.io)
+## Hello World !&nbsp;
 
 I am a Harware and Firmware Design and Verification Engineer. My interests lie at the thin intersection of Electronics Engineering and Computer Science Engineering. ✌️
 
