@@ -2,7 +2,7 @@
 
 ## Hello World !&nbsp;
 
-I am a Harware and Firmware Design and Verification Engineer. My interests lie at the thin intersection of Electronics Engineering and Computer Science Engineering. ✌️
+I am a Hardware and Firmware Design and Verification Engineer. My interests lie at the thin intersection of Electronics Engineering and Computer Science Engineering. ✌️
 
 [![Twitter](https://img.shields.io/twitter/follow/ArunaFX?label=%40ArunaFX&logo=Twitter&color=blue&logoColor=blue&style=flat-square)](https://twitter.com/ArunaFX)
 [![GitHub](https://img.shields.io/badge/-@archfx-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/archfx)
