@@ -26,7 +26,8 @@ I am a Hardware and Firmware Design and Verification Engineer. My interests lie 
 
  -->
 
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
