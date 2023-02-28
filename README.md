@@ -26,14 +26,6 @@ I am a Hardware and Firmware Design and Verification Engineer. My interests lie 
 
  -->
 
-<!-- BLOG-POST-LIST:START -->
-- [Bootloader at Home?](https://archfx.github.io/posts/2023/02/firmware4/)
-- [Linker Scripts in Brief](https://archfx.github.io/posts/2023/02/firmware3/)
-- [Hello World! Firmware](https://archfx.github.io/posts/2023/02/firmware2/)
-- [Firmware at Bare metal](https://archfx.github.io/posts/2023/02/firmware1/)
-- [Learn from Failures](https://archfx.github.io/posts/2019/05/learn/)
-<!-- BLOG-POST-LIST:END -->
-
 
 
 
