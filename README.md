@@ -11,7 +11,7 @@ I am a Hardware and Firmware Design and Verification Engineer. My interests lie 
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-8347-5065) 
 [![Website](https://img.shields.io/badge/archfx.github.io-online-green?style=flat-square&logo=accenture&logoWidth=5)](https://archfx.github.io)
 [![Google Scholar](https://img.shields.io/badge/GScholar--blue.svg?style=flat-square)](https://scholar.google.com/citations?user=VIHZNs8AAAAJ&hl=en&oi=ao)
-[![Insta](https://img.shields.io/badge/-arch.fx-DD2A7B?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ar_ch.fx?igshid=YmMyMTA2M2Y=) 
+[![Insta](https://img.shields.io/badge/-arch.fx-DD2A7B?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ar_ch.fx/) 
 
 
 <!-- <picture>
