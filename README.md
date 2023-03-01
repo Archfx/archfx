@@ -4,15 +4,15 @@
 
 I am a Hardware and Firmware Design and Verification Engineer. My interests lie at the thin intersection of Electronics Engineering and Computer Science Engineering. ✌️
 
-![GitHub](https://img.shields.io/github/stars/archfx?affiliations=OWNER&label=archfx%20%E2%98%85&logo=github&style=flat-square)
+![GitHub](https://img.shields.io/github/stars/archfx?affiliations=OWNER&label=archfx%20%E2%98%85&logo=github&color=red&style=flat-square)
 [![Twitter](https://img.shields.io/badge/-@ArunaFX-0072B1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ArunaFX)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-8347-5065)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072B1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunajayasena)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Aruna-Jayasena-4)
-[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-8347-5065) 
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Aruna-Jayasena-4) 
 [![Google Scholar](https://img.shields.io/badge/-GScholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=VIHZNs8AAAAJ&hl=en&oi=ao)
 [![Insta](https://img.shields.io/badge/-@ar__ch.fx-DD2A7B?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ar_ch.fx/) 
-[![Website](https://img.shields.io/badge/archfx.github.io-online-green?style=flat-square&logo=accenture&logoWidth=5)](https://archfx.github.io)
-
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://archfx.github.io/blog)
+[![Website](https://img.shields.io/badge/-archfx.github.io-0097A7?style=flat-square&logo=aiohttp&logoColor=white)](https://archfx.github.io)
 
 <!-- <picture>
   <source srcset="https://raw.githubusercontent.com/Archfx/github-stats/master/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
