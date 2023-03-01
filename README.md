@@ -4,7 +4,7 @@
 
 I am a Hardware and Firmware Design and Verification Engineer. My interests lie at the thin intersection of Electronics Engineering and Computer Science Engineering. ✌️
 
-![GitHub](https://img.shields.io/github/stars/archfx?affiliations=OWNER&label=archfx%20%E2%98%85&logo=github&color=red&style=flat-square)
+[![GitHub](https://img.shields.io/github/stars/archfx?affiliations=OWNER&label=archfx%20%E2%98%85&logo=github&color=red&style=flat-square)](https://github.com/Archfx)
 [![Twitter](https://img.shields.io/badge/-@ArunaFX-0072B1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ArunaFX)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-8347-5065)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072B1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunajayasena)
