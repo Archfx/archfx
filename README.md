@@ -12,7 +12,7 @@ I am a Hardware and Firmware Design and Verification Engineer. My interests lie 
 [![Google Scholar](https://img.shields.io/badge/-GScholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=VIHZNs8AAAAJ&hl=en&oi=ao)
 [![Insta](https://img.shields.io/badge/-@ar__ch.fx-DD2A7B?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ar_ch.fx/) 
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://archfx.github.io/blog)
-[![Website](https://img.shields.io/badge/github.io-555555?style=flat-square&logo=powershell&logoColor=white)](https://archfx.github.io)
+[![Website](https://img.shields.io/badge/archfx.github.io-555555?style=flat-square&logo=powershell&logoColor=white)](https://archfx.github.io)
 
 <!-- <picture>
   <source srcset="https://raw.githubusercontent.com/Archfx/github-stats/master/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
