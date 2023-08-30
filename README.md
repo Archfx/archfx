@@ -10,7 +10,7 @@ I am a Hardware and Firmware Design and Verification Engineer. My interests lie 
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-8347-5065)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072B1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunajayasena)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Aruna-Jayasena-4) 
-[![Google Scholar](https://img.shields.io/badge/-GScholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=VIHZNs8AAAAJ&hl=en&oi=ao)
+[![Google Scholar](https://img.shields.io/badge/-GScholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=asKPDmQAAAAJ)
 [![Insta](https://img.shields.io/badge/-@ar__ch.fx-DD2A7B?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ar_ch.fx/) 
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://archfx.github.io/blog)
 [![Website](https://img.shields.io/badge/archfx.github.io-555555?style=flat-square&logo=powershell&logoColor=white)](https://archfx.github.io)
