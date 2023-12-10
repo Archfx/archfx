@@ -1,5 +1,5 @@
 echo -e "
-Project \e[1;35mCLEO\e[0m by
+Find this image at \e[1;35mhub.docker.com/u/archfx\e[0m
 \033[34m ▄▄▄· ▄▄▄   ▄▄·  ▄ .▄·▄▄▄▐▄• ▄ 
 \033[34m▐█ ▀█ ▀▄ █·▐█ ▌▪██▪▐█▐▄▄· █▌█▌▪
 \033[34m▄█▀▀█ ▐▀▀▄ ██ ▄▄██▀▐███▪  ·██· 
