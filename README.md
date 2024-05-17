@@ -1,6 +1,6 @@
 <img align="left" width="120" height="auto" alt="" src="images/globe.gif"/>
 
-### Hello World! [^1]&nbsp; 
+### Hello World! <a href="#note1" id="note1ref"><sup>[1]</sup></a>&nbsp; 
 
 
 
@@ -30,6 +30,7 @@ I am a Hardware and Firmware Design and Verification Engineer. My interests lie 
 
  -->
 
-[^1] : (`0x48656C6C6F20576F726C6421`)
+<sup><sub><a id="note1" href="#note1ref">[1]</a> 0x48 0x65 0x6C 0x6C 0x6F 0x20 0x57 0x6F 0x72 0x6C 0x64 0x21</sub></sup>
+
 
 
