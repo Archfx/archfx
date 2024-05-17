@@ -1,6 +1,6 @@
 <img align="left" width="120" height="auto" alt="" src="images/globe.gif"/>
 
-### Hello World! <a href="#note1" id="note1ref"><sup>[1]</sup></a>&nbsp; 
+### Hello World! <a href="#note1" id="note1ref"><sup><sup>[1]</sup></sup></a>&nbsp; 
 
 
 
