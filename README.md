@@ -7,7 +7,7 @@
 I am a Hardware and Firmware Design and Verification Engineer. My interests lie at the thin intersection of Electronics Engineering and Computer Science Engineering. ✌️
 
 [![GitHub](https://img.shields.io/github/stars/archfx?affiliations=OWNER&label=archfx%20%E2%98%85&logo=github&color=red&style=flat-square)](https://github.com/Archfx)
-[![Twitter](https://img.shields.io/badge/-@ArunaFX-0072B1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ArunaFX)
+[![Twitter](https://img.shields.io/badge/-@ArunaFX-0072B1?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ArunaFX)
 [![Twitter](https://img.shields.io/badge/-@Archfx-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mas.to/@archfx)
 [![ORCiD](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-8347-5065)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072B1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunajayasena)
@@ -16,7 +16,7 @@ I am a Hardware and Firmware Design and Verification Engineer. My interests lie 
 [![dblp](https://img.shields.io/badge/-dblp-335df5?style=flat-square&logo=dblp&logoColor=white)](https://dblp.org/pid/338/4677.html)
 [![Insta](https://img.shields.io/badge/-@ar__ch.fx-DD2A7B?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ar_ch.fx/) 
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://archfx.github.io/blog)
-[![Website](https://img.shields.io/badge/archfx.github.io-555555?style=flat-square&logo=powershell&logoColor=white)](https://archfx.github.io)
+[![Website](https://img.shields.io/badge/https://archfx.me-555555?style=flat-square&logo=powershell&logoColor=white)](https://archfx.me)
 
 <!-- <picture>
   <source srcset="https://raw.githubusercontent.com/Archfx/github-stats/master/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
