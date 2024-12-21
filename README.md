@@ -14,7 +14,7 @@ I am a Hardware and Firmware Design and Verification Engineer. My interests lie 
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Aruna-Jayasena-4) 
 [![Google Scholar](https://img.shields.io/badge/-GScholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=asKPDmQAAAAJ)
 [![dblp](https://img.shields.io/badge/-dblp-335df5?style=flat-square&logo=dblp&logoColor=white)](https://dblp.org/pid/338/4677.html)
-[![Insta](https://img.shields.io/badge/-@ar__ch.fx-DD2A7B?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ar_ch.fx/) 
+[![Insta](https://img.shields.io/badge/-@archfx.me-DD2A7B?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/archfx.me/) 
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://archfx.github.io/blog)
 [![Website](https://img.shields.io/badge/https://archfx.me-555555?style=flat-square&logo=powershell&logoColor=white)](https://archfx.me)
 
